@@ -1,2 +1,3 @@
 # readme
-yohoyoho!
+HongKong address spider.
+Database use MySQL.
